@@ -21,7 +21,7 @@ Developed by Joseba Juániz ([@Patroklo](http://twitter.com/Patroklo))
 
 ## Licencia
 
-Esto es software libre. Está liberado bajo los términos de la siguiente licencia BSD
+This is free software. It is released under the terms of the following BSD License.
 
 Copyright (c) 2014, by Cyneek
 All rights reserved.
