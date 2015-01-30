@@ -7,19 +7,19 @@ This widget adds a new file input field that lets the user to upload images to t
 
 Developed by Joseba Juániz ([@Patroklo](http://twitter.com/Patroklo))
 
-[Versión en inglés](https://github.com/Patroklo/yii2-widget-upload-crop/blob/master/README.md)
+[Spanish version](https://github.com/Patroklo/yii2-widget-upload-crop/blob/master/README_spanish.md)
 
-## Requisitos mínimos
+## Minimum requirements
 
 * Yii2
 * Php 5.4 or above.
 * JQuery
 
-## Planes futuros
+## Future plans
 
-* Ninguno.
+* None at all.
 
-## Licencia
+## License
 
 This is free software. It is released under the terms of the following BSD License.
 
@@ -49,12 +49,12 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-## Instalación
+## Installation
 
 * Install [Yii 2](http://www.yiiframework.com/download)
 * Install the package via [composer](http://getcomposer.org/download/) 
 		
-		// añadir el packagist
+		"cyneek/yii2-widget-upload-crop": "dev-master"
 		
 * Profit!
 

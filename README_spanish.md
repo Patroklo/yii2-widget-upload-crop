@@ -54,7 +54,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 * Instalar [Yii 2](http://www.yiiframework.com/download)
 * Instalar el paquete vía [composer](http://getcomposer.org/download/) 
 		
-		// añadir el packagist
+		"cyneek/yii2-widget-upload-crop": "dev-master"
 		
 * Profit!
 
