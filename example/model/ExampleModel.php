@@ -15,6 +15,7 @@ use yii\db\ActiveRecord;
 class ExampleModel extends ActiveRecord
 {
 
+	
 	public $file_attribute;
 
 	/**
