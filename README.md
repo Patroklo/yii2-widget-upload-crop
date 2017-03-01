@@ -1,6 +1,8 @@
 # Yii2 Upload Crop Widget
 Widget that makes a file input field in a form that stores an image about to be uploaded to the server and also the data to crop this image.
 
+### This package is discontinued, please, refer to https://github.com/ashismohanty/yii2-widget-upload-crop to access the new one.
+
 ## What is Upload Crop Widget?
 
 This widget adds a new file input field that lets the user to upload images to the server through forms alongside the necessary data to be able to crop it. This data is obtained with javaScript with a crop selector that the user can use through a modal that it's oppened in the moment of selecting an image in the file input field.
